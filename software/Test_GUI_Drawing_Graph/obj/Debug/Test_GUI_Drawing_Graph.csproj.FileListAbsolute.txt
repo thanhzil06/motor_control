@@ -1,0 +1,52 @@
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\bin\Debug\Test_GUI_Drawing_Graph.exe.config
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\bin\Debug\Test_GUI_Drawing_Graph.exe
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\bin\Debug\Test_GUI_Drawing_Graph.pdb
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\bin\Debug\ZedGraph.dll
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\bin\Debug\ZedGraph.xml
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\bin\Debug\de\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\bin\Debug\es\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\bin\Debug\fr\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\bin\Debug\hu\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\bin\Debug\it\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\bin\Debug\ja\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\bin\Debug\pt\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\bin\Debug\ru\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\bin\Debug\sk\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\bin\Debug\sv\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\bin\Debug\tr\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\obj\Debug\Test_GUI_Drawing_Graph.csprojAssemblyReference.cache
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\obj\Debug\Test_GUI_Drawing_Graph.csproj.ResolveComReference.cache
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\obj\Debug\Test_GUI_Drawing_Graph.Form1.resources
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\obj\Debug\Test_GUI_Drawing_Graph.Properties.Resources.resources
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\obj\Debug\Test_GUI_Drawing_Graph.csproj.GenerateResource.cache
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\obj\Debug\Test_GUI_Drawing_Graph.csproj.CopyComplete
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\obj\Debug\Test_GUI_Drawing_Graph.exe
+D:\Trọng Thanh\visual code\C#\Test_GUI_Drawing_Graph\Test_GUI_Drawing_Graph\obj\Debug\Test_GUI_Drawing_Graph.pdb
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\bin\Debug\Test_GUI_Drawing_Graph.exe.config
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\bin\Debug\Test_GUI_Drawing_Graph.exe
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\bin\Debug\Test_GUI_Drawing_Graph.pdb
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\bin\Debug\ZedGraph.dll
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\bin\Debug\ZedGraph.xml
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\bin\Debug\de\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\bin\Debug\es\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\bin\Debug\fr\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\bin\Debug\hu\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\bin\Debug\it\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\bin\Debug\ja\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\bin\Debug\pt\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\bin\Debug\ru\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\bin\Debug\sk\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\bin\Debug\sv\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\bin\Debug\tr\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\obj\Debug\Test_GUI_Drawing_Graph.csprojAssemblyReference.cache
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\obj\Debug\Test_GUI_Drawing_Graph.csproj.ResolveComReference.cache
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\obj\Debug\Test_GUI_Drawing_Graph.Form1.resources
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\obj\Debug\Test_GUI_Drawing_Graph.Properties.Resources.resources
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\obj\Debug\Test_GUI_Drawing_Graph.csproj.GenerateResource.cache
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\obj\Debug\Test_GUI_Drawing_Graph.csproj.CopyComplete
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\obj\Debug\Test_GUI_Drawing_Graph.exe
+D:\Trọng Thanh\visual code\C#\De tai cuoi khoa Embedded\Test_GUI_Drawing_Graph\obj\Debug\Test_GUI_Drawing_Graph.pdb

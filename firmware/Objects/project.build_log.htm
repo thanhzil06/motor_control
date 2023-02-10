@@ -1,0 +1,94 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.31.0.0
+Copyright (C) 2020 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: Phanmem123.com Phanmem123.com, Phanmem123.com, LIC=65ISZ-J10R2-UH88H-W0PI4-D9AM4-G8GSG
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.31.0.0
+Toolchain Path:  C:\Keil_v5\ARM\ARMCLANG\Bin
+C Compiler:      ArmClang.exe V6.14
+Assembler:       Armasm.exe V6.14
+Linker/Locator:  ArmLink.exe V6.14
+Library Manager: ArmAr.exe V6.14
+Hex Converter:   FromElf.exe V6.14
+CPU DLL:         SARMCM3.DLL V5.31.0.0
+Dialog DLL:      DCM.DLL V1.17.3.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V3.0.7.0
+Dialog DLL:      TCM.DLL V1.46.0.0
+ 
+<h2>Project:</h2>
+B:\Embeded\Project\project.uvprojx
+Project File Date:  07/03/2022
+
+<h2>Output:</h2>
+*** Using Compiler 'V6.14', folder: 'C:\Keil_v5\ARM\ARMCLANG\Bin'
+Build target 'Target 1'
+main.c(88): warning: no previous extern declaration for non-static variable 'cnt' [-Wmissing-variable-declarations]
+uint16_t cnt = 0;
+         ^
+main.c(88): note: declare 'static' if the variable is not intended to be used outside of this translation unit
+uint16_t cnt = 0;
+^
+main.c(127): warning: implicit declaration of function 'send_data' is invalid in C99 [-Wimplicit-function-declaration]
+                                        send_data((int16_t)(setPoint),(int16_t)(processVar));                                                   
+                                        ^
+main.c(165): warning: cast from function call of type 'int32_t' (aka 'int') to non-matching type 'double' [-Wbad-function-cast]
+                                        processVar = (double)ENC0_GetPos()/20000.0 *360.0;                              
+                                                             ^~~~~~~~~~~~~
+main.c(179): warning: implicit conversion loses integer precision: 'int' to 'int16_t' (aka 'short') [-Wimplicit-int-conversion]
+                                        udk = (int)Udk;
+                                            ~ ^~~~~~~~
+main.c(181): warning: implicit declaration of function 'send_data' is invalid in C99 [-Wimplicit-function-declaration]
+                                        send_data((int16_t)(setPoint),(int16_t)(processVar));                           
+                                        ^
+main.c(195): warning: code will never be executed [-Wunreachable-code]
+  controllers_terminate();
+  ^~~~~~~~~~~~~~~~~~~~~
+main.c(87): warning: no previous extern declaration for non-static variable 'udk' [-Wmissing-variable-declarations]
+int16_t udk, i;
+        ^
+main.c(87): note: declare 'static' if the variable is not intended to be used outside of this translation unit
+int16_t udk, i;
+^
+main.c(87): warning: no previous extern declaration for non-static variable 'i' [-Wmissing-variable-declarations]
+int16_t udk, i;
+             ^
+main.c(87): note: declare 'static' if the variable is not intended to be used outside of this translation unit
+int16_t udk, i;
+^
+8 warnings generated.
+compiling main.c...
+linking...
+Program Size: Code=24360 RO-data=1372 RW-data=296 ZI-data=4720  
+FromELF: creating hex file...
+".\Objects\project.axf" - 0 Error(s), 8 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.7.0.pack
+                ARM.CMSIS.5.7.0
+                CMSIS (Cortex Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.4.0
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.STM32F4xx_DFP.2.16.0.pack
+                Keil.STM32F4xx_DFP.2.16.0
+                STMicroelectronics STM32F4 Series Device Support, Drivers and Examples
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\_Target_1
+  C:\Users\DELL\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include
+  C:\Users\DELL\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.4.0
+Build Time Elapsed:  00:00:02
+</pre>
+</body>
+</html>
